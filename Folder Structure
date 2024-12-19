@@ -1,0 +1,13 @@
+/Student-Attendance-Management-System
+│
+├── /assets
+│   ├── /css
+│   │   └── style.css
+│   ├── /js
+│   │   └── validation.js
+│
+├── index.html
+├── login.html
+├── register.html
+├── profile.html
+└── README.md
